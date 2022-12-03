@@ -1,3 +1,16 @@
+// @File		 		
+// @Author		JOSIMAR PEREIRA LEITE
+// @country		Brazil
+// @Date		17/11/22
+//
+//
+// Copyright (C) 2021  JOSIMAR PEREIRA LEITE
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
 #ifndef SHT25_H
 #define SHT25_H
 
